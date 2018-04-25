@@ -1,0 +1,13 @@
+.product{
+    width: 50%;
+    height: 200px;
+    
+    float: left;
+}
+.shoppingchart{
+    width: 50%;
+    height: 200px;
+    
+    background-color: #00CE6F;
+    float: left;
+}
